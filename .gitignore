@@ -1,2 +1,3 @@
 .env
-
+metricbeat-data01/
+es-data-01/
