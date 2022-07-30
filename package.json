@@ -1,0 +1,20 @@
+{
+  "name": "elastic-grafana-kafka-kibana-logstash-metricbeat-telegraf",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/seyeon-shijuan/monitoring-system.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/seyeon-shijuan/monitoring-system/issues"
+  },
+  "homepage": "https://github.com/seyeon-shijuan/monitoring-system#readme"
+}
